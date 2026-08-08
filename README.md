@@ -115,21 +115,11 @@ A Machine Learning project that predicts house prices based on property area usi
 
 ---
 
-## 📊 GitHub Stats
-
-![Rameesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rameeshafatima-png&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameeshafatima-png&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/rameesha-fatima-821b43377/)
+- LinkedIn: (https://www.linkedin.com/in/rameesha-fatima-821b43377/)
 - GitHub: [Rameeshafatima-png](https://github.com/Rameeshafatima-png)
 
 ---
