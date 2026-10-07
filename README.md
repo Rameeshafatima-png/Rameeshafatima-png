@@ -5,7 +5,9 @@
 \# Rameesha Fatima\
 \
 \<sub>Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; FastAPI\</sub>\
+\
 \<br/>\<br/>\
+\
 \<img src="https\://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=E8A0C8&background=0D1117&center=true&vCenter=true&width=560&height=100&lines=%24+whoami;rameesha+%E2%80%94+data+science+%26+ml+engineer+in+the+making;%24+python+train_model.py+--deploy+fastapi;%E2%80%A2+system+online+%E2%80%94+welcome\_" alt="terminal" />\
 \
 \<br/>\
@@ -18,7 +20,7 @@
 \
 \<br/>\
 \
-\
+\## whoami\
 \
 I'm \*\*Rameesha\*\*, a Data Science & Machine Learning enthusiast who likes taking an idea all the way from raw data to a working app. I build with Python, train models, and ship them as clean web apps using \*\*FastAPI\*\*, including \*\*RAG\*\* and \*\*Generative AI\*\* projects powered by Google Gemini.\
 \
@@ -186,4 +188,3 @@ Writes polished emails in seconds. Enter the recipient, the purpose and a tone (
 \<br/>\
 \
 \<img src="https\://capsule-render.vercel.app/api?type=waving&color=0:e8a0c8,50:5b2a52,100:0d1117&height=120&section=footer" width="100%"/>\
-yr ye 2nd or 3rd line ky bhej main sy gap hatao or emojis bhi or is ko or acha sa bana kr dy doo
