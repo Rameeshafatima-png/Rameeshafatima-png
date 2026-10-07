@@ -1,144 +1,105 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b2a52,100:e8a0c8&height=120&section=header" width="100%"/>
 
-# Hi, I'm Rameesha Fatima 👋
+<div align="center">
 
-### Data Science & Machine Learning Enthusiast | Python | Machine Learning | FastAPI
+# Rameesha Fatima
 
-I'm a passionate Data Science and Machine Learning enthusiast focused on building practical, real-world AI and ML applications. I enjoy working with Python, data analysis, machine learning models, and deploying intelligent applications using FastAPI.
+<sub>Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; FastAPI</sub>
 
-My goal is to continuously learn, build meaningful projects, and grow as a professional Data Scientist and Machine Learning Engineer.
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=E8A0C8&background=0D1117&center=true&vCenter=true&width=520&height=90&lines=%24+whoami;rameesha+%E2%80%94+data+science+%26+ml+enthusiast;%24+python+train_model.py;%E2%80%A2+system+online+%E2%80%94+welcome_" alt="terminal" />
 
-## 🚀 About Me
+</div>
 
-- 🎓 Learning and building projects in Data Science & Machine Learning
-- 🐍 Working with Python for data analysis and machine learning
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- ⚡ Building ML-powered applications with FastAPI
-- 📊 Exploring data preprocessing, EDA, visualization, and predictive modeling
-- 🌱 Continuously improving my technical and problem-solving skills
-- 💡 Passionate about turning data into useful real-world solutions
+<br/>
 
----
+## whoami
 
-## 🛠️ Tech Stack
+I'm **Rameesha**, a Data Science & Machine Learning enthusiast based in Karachi. I build practical, real-world AI and ML applications: data analysis in Python, machine learning models, and intelligent apps deployed with **FastAPI**.
 
-### Programming & Data Science
+My goal is to keep learning, build meaningful projects, and grow into a professional Data Scientist and Machine Learning Engineer.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+<div align="center">
 
-### Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:5b2a52,100:0d1117&height=2" width="60%"/>
 
-- Supervised Learning
-- Classification
-- Regression
-- Model Evaluation
-- Feature Engineering
-- Data Preprocessing
+<br/>
 
-### Deployment & Development
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=plotly&logoColor=11557c"/>
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=4c9fc1"/>
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
 
-- FastAPI
-- REST APIs
-- HTML
-- CSS
-- Git & GitHub
+<br/><br/>
 
-### Tools
+<sub>exploring &nbsp;›&nbsp; preprocessing · EDA · visualization · predictive modeling · model deployment</sub>
 
-- Jupyter Notebook
-- Google Colab
-- Visual Studio Code
-- Kaggle
-- GitHub
+</div>
+
+<br/>
 
 ---
 
-## 📌 Featured Projects
+<br/>
 
-### 🩺 Breast Cancer Prediction
+<div align="center">
 
-A Machine Learning-powered web application for predicting breast cancer diagnosis using classification techniques.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rameeshafatima-png&bg_color=0d1117&color=e8a0c8&line=e8a0c8&point=ffffff&area=true&area_color=e8a0c8&hide_border=true&title_color=e8a0c8" width="85%"/>
 
-**Technologies:** Python, Scikit-learn, FastAPI, HTML, CSS
+<br/><br/>
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rameeshafatima-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8a0c8&icon_color=e8a0c8&text_color=c9d1d9" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Rameeshafatima-png&hide_border=true&background=0d1117&ring=e8a0c8&fire=e8a0c8&currStreakLabel=e8a0c8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
-### 🚢 Titanic Survival Predictor
+<br/>
 
-A Machine Learning application that predicts passenger survival using the Titanic dataset.
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameeshafatima-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8a0c8&text_color=c9d1d9" />
 
-**Technologies:** Python, Machine Learning, FastAPI, HTML, CSS
+</div>
 
----
-
-### 🌸 Iris Flower Classification
-
-A Machine Learning web application that classifies Iris flowers based on their features.
-
-**Technologies:** Python, Scikit-learn, FastAPI, HTML, CSS
+<br/>
 
 ---
 
-### 🏠 House Price Prediction
+<br/>
 
-A Machine Learning project that predicts house prices based on property area using Linear Regression.
+## projects
 
-**Technologies:** Python, Scikit-learn, FastAPI
+<!-- Apne real projects yahan daalein -->
 
----
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**Project Name 1**](https://github.com/Rameeshafatima-png/your-repo) | One-line description | Python · scikit-learn |
+| [**Project Name 2**](https://github.com/Rameeshafatima-png/your-repo) | One-line description | Python · FastAPI |
+| [**Project Name 3**](https://github.com/Rameeshafatima-png/your-repo) | One-line description | Pandas · Seaborn |
 
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Natural Language Processing
-- MLOps
-- Model Deployment
-- AI Application Development
+<br/>
 
 ---
 
-## 🎯 My Goals
+<br/>
 
-- Build production-ready Machine Learning projects
-- Improve my Data Science skills
-- Learn advanced AI technologies
-- Build a strong GitHub portfolio
-- Become a professional Data Scientist / ML Engineer
+<div align="center">
 
----
+### let's build something.
 
----
+<sub>Karachi, Pakistan &nbsp;·&nbsp; open to collaborating on Data Science & ML projects</sub>
 
-## 🤝 Connect With Me
+<br/><br/>
 
-- LinkedIn: (https://www.linkedin.com/in/rameesha-fatima-821b43377/)
-- GitHub: [Rameeshafatima-png](https://github.com/Rameeshafatima-png)
+<a href="https://www.linkedin.com/in/rameesha-fatima-821b43377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rameeshaf8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
----
+</div>
 
-### 💙 Thanks for visiting my profile!
+<br/>
 
-I'm always learning, building, and exploring new possibilities in Data Science and Artificial Intelligence.
-
-<!--
-**Rameeshafatima-png/Rameeshafatima-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a0c8,50:5b2a52,100:0d1117&height=120&section=footer" width="100%"/>
